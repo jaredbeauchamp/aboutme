@@ -1,3 +1,4 @@
+/* Fixed Background */
 .background-container {
 	position: fixed;
 	z-index: -1;
@@ -8,6 +9,7 @@
 	background:url("http://images.apple.com/osx/preview/images/overview_hero_bg_2x.jpg") no-repeat;
 	background-size: cover;
 }
+/* White Navbar at the top */
 .navbar {
 	background-color: #fff;
 	position: fixed;
@@ -34,6 +36,7 @@
 .logo {
 	height: 42px;
 }
+/* My original profile */
 .profile-container {
 	width: 100%;
 	height: 100%;
@@ -69,6 +72,7 @@
 	margin-top: 5px;
 	font-size: 14px;
 }
+/* Starting the Card */
 .card {
 	position: absolute;
 	left: 50%;
